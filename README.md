@@ -12,7 +12,8 @@
 - [Build your first &lpar;voice-&rpar;bot with Microsoft Power Virtual Agent](https://the.cognitiveservices.ninja/build-your-first-voice-bot-with-microsoft-power-virtual-agent-3e71f8531c3a)
 <!-- HASHNODE:END -->
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=holgerimbery&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=holgerimbery&theme=github_dark&utcOffset=8)
 
 
 
