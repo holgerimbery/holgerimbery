@@ -7,9 +7,6 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Extend Power Virtual Agent with Azure Cognitive Services](https://thecognitiveservicesninja.medium.com/extend-power-virtual-agent-with-azure-cognitive-services-eab95018b7f6?source=rss-aaaab1a2db49------2)
-- [Power Virtual Agents Application Lifecycle Management](https://thecognitiveservicesninja.medium.com/power-virtual-agents-application-lifecycle-management-38bf9882e2d6?source=rss-aaaab1a2db49------2)
-- [Build your first &lpar;voice-&rpar;bot with Microsoft Power Virtual Agent](https://thecognitiveservicesninja.medium.com/build-your-first-voice-bot-with-microsoft-power-virtual-agent-3e71f8531c3a?source=rss-aaaab1a2db49------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -22,4 +19,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=holgerimbery&show_icons=true&locale=en" alt="holgerimbery" /></p>
 
