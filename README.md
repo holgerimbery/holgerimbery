@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holgerimbery&label=Profile%20views&color=0e75b6&style=flat" alt="holgerimbery" /> </p>
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:START --> 
+<!-- HASHNODE:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
