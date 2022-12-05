@@ -7,6 +7,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Extend Power Virtual Agent with Azure Cognitive Services](https://thecognitiveservicesninja.medium.com/extend-power-virtual-agent-with-azure-cognitive-services-eab95018b7f6?source=rss-aaaab1a2db49------2)
+- [Power Virtual Agents Application Lifecycle Management](https://thecognitiveservicesninja.medium.com/power-virtual-agents-application-lifecycle-management-38bf9882e2d6?source=rss-aaaab1a2db49------2)
+- [Build your first &lpar;voice-&rpar;bot with Microsoft Power Virtual Agent](https://thecognitiveservicesninja.medium.com/build-your-first-voice-bot-with-microsoft-power-virtual-agent-3e71f8531c3a?source=rss-aaaab1a2db49------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
