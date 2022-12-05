@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holgerimbery&label=Profile%20views&color=0e75b6&style=flat" alt="holgerimbery" /> </p>
 
-### Blogs posts
+### Blogs posts - hashnode.com
 <!-- HASHNODE:START -->
 - [Extend Power Virtual Agent with Azure Cognitive Services](https://the.cognitiveservices.ninja/extend-power-virtual-agent-with-azure-cognitive-services-eab95018b7f6)
 - [Power Virtual Agents Application Lifecycle Management](https://the.cognitiveservices.ninja/power-virtual-agents-application-lifecycle-management-38bf9882e2d6)
