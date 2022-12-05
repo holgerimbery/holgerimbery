@@ -14,6 +14,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=holgerimbery&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=holgerimbery&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=holgerimbery&theme=github_dark)
 
 
 
