@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/thecognitiveservicesninja"><img src="https://api.daily.dev/devcards/7d6788ea96d04422bdcc4f633263bc26.png?r=jy0" width="400" alt="Holger Imbery's Dev Card"/></a>
+<a href="https://app.daily.dev/thecognitiveservicesninja"><img src="https://api.daily.dev/devcards/7d6788ea96d04422bdcc4f633263bc26.png?r=jy0" align=right width="400" alt="Holger Imbery's Dev Card"/></a>
 
 <!--
 **holgerimbery/holgerimbery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
