@@ -14,4 +14,4 @@ jobs:
               with: 
                 comment_tag_name: "HASHNODE"
                 commit_message: "Updated readme with the latest Hashnode Blog data"
-                feed_list: "https://the.cognitiveservices.ninja/rss.xml"
+                feed_list: "https://the.cognitiveservices.ninja/rss.xml, https://aiassistant.studio/rss.xml"
