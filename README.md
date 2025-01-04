@@ -7,22 +7,11 @@
 
 ⚐ Based in Berlin, Germany
 
-ϟ Currently working on voice bots to emprove and empower customer service
+ϟ Currently working on voice bots to improve and empower customer service
 
  
 
 <a href="https://app.daily.dev/thecognitiveservicesninja"><img src="https://api.daily.dev/devcards/7d6788ea96d04422bdcc4f633263bc26.png?r=f2m" align=right width="400" alt="Holger Imbery's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holgerimbery&label=Profile%20views&color=0e75b6&style=flat" alt="holgerimbery" /> </p>
-
-### 5 latest Blogs posts - hashnode.com
-<!-- HASHNODE:START -->
-- [Enhance Your Automated Customer Service by Giving Virtual Agents a Face and Personality](https://the.cognitiveservices.ninja/enhance-your-automated-customer-service-by-giving-virtual-agents-a-face-and-personality)
-- [Revolutionizing Teamwork: Unleashing the Power of Copilot Pages for Seamless Document Collaboration with Links for IT-Admins](https://aiassistant.studio/revolutionizing-teamwork-unleashing-the-power-of-copilot-pages-for-seamless-document-collaboration-with-links-for-it-admins)
-- [Revolutionizing Teamwork: Unleashing the Power of Copilot Pages for Seamless Document Collaboration with Links for IT-Admins](https://the.cognitiveservices.ninja/revolutionizing-teamwork-unleashing-the-power-of-copilot-pages-for-seamless-document-collaboration-with-links-for-it-admins)
-- [Enhance Your Copilot for Microsoft 365 Experience: When Plain Copilot Isn&#39;t Enough](https://the.cognitiveservices.ninja/enhance-your-copilot-for-microsoft-365-experience-when-plain-copilot-isnt-enough)
-- [Easy Steps to Create Multilingual IVRs with Copilot Studio in Dynamics 365 Customer Service or ContactCenter](https://the.cognitiveservices.ninja/easy-steps-to-create-multilingual-ivrs-with-copilot-studio-in-dynamics-365-customer-service-or-contactcenter)
-<!-- HASHNODE:END -->
-
-
 
