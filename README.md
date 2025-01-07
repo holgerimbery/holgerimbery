@@ -19,7 +19,7 @@
 <!-- HASHNODE:START -->
 - [blog update and a sundown and a new start](https://holgerimbery.blog/blog-update)
 - [Enhance Your Automated Customer Service by Giving Virtual Agents a Face and Personality](https://holgerimbery.blog/enhance-your-automated-customer-service-by-giving-virtual-agents-a-face-and-personality)
-- [Enhance Your Copilot for Microsoft 365 Experience - When Plain Copilot Isn&#39;t Enough](https://holgerimbery.blog/enhance-your-copilot-for-microsoft-365-experience-when-plain-copilot-isnt-enough)
 - [Revolutionizing Teamwork - Unleashing the Power of Copilot Pages for Seamless Document Collaboration with Links for IT-Admins](https://holgerimbery.blog/revolutionizing-teamwork-unleashing-the-power-of-copilot-pages-for-seamless-document-collaboration-with-links-for-it-admins)
+- [Enhance Your Copilot for Microsoft 365 Experience - When Plain Copilot Isn&#39;t Enough](https://holgerimbery.blog/enhance-your-copilot-for-microsoft-365-experience-when-plain-copilot-isnt-enough)
 - [Easy Steps to Create Multilingual IVRs with Copilot Studio in Dynamics 365 Customer Service or ContactCenter](https://holgerimbery.blog/easy-steps-to-create-multilingual-ivrs-with-copilot-studio-in-dynamics-365-customer-service-or-contactcenter)
 <!-- HASHNODE:END -->
