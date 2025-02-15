@@ -17,9 +17,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Copilot Studio - a curated link list](https://holgerimbery.blog/copilot-studio-a-curated-link-list-v2)
 - [Transform Your Sales Operations - Integrate Salesforce with Copilot for Microsoft 365](https://holgerimbery.blog/transform-your-sales-operations-integrate-salesforce-with-copilot-for-microsoft-365)
 - [Extending Microsoft 365 Copilot with Copilot Studio with ServiceNow as an example](https://holgerimbery.blog/m365-copilot-extensibility-servicenow)
 - [Comparison of Copilot Chat and Copilot for Microsoft 365](https://holgerimbery.blog/comparison-of-copilot-chat-and-copilot-for-microsoft365)
 - [Tech Hint - Consult and transfer from Dynamics 365 Customer Service or Contact Center to Microsoft Teams](https://holgerimbery.blog/techhint-consult-and-transfer-d365-teams)
-- [blog update and a sundown and a new start](https://holgerimbery.blog/blog-update)
 <!-- HASHNODE:END -->
