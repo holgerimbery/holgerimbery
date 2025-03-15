@@ -17,9 +17,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Accelerate Your Journey to AI-First Selling](https://holgerimbery.blog/accelerate-your-journey-to-ai-first-selling)
 - [Autonomous Agents with Microsoft Copilot Studio - an overview](https://holgerimbery.blog/autonomous-agents-with-microsoft-copilot-studio)
 - [Creating an Agent for Microsoft Copilot Chat Using SharePoint as a Knowledge Source](https://holgerimbery.blog/creating-an-agent-for-microsoft-copilot-chat-using-sharepoint-as-a-knowledge-source)
 - [Exploring Copilot Studio Features - Classic Orchestration and Generative Orchestration](https://holgerimbery.blog/classic-orchestration-and-generative-orchestration)
 - [Copilot Studio - a curated link list](https://holgerimbery.blog/copilot-studio-a-curated-link-list-v2)
-- [Transform Your Sales Operations - Integrate Salesforce with Copilot for Microsoft 365](https://holgerimbery.blog/transform-your-sales-operations-integrate-salesforce-with-copilot-for-microsoft-365)
 <!-- HASHNODE:END -->
