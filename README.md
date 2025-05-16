@@ -11,8 +11,6 @@
 
  
 
-<a href="https://app.daily.dev/thecognitiveservicesninja"><img src="https://api.daily.dev/devcards/7d6788ea96d04422bdcc4f633263bc26.png?r=f2m" align=right width="400" alt="Holger Imbery's Dev Card"/></a>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=holgerimbery&label=Profile%20views&color=0e75b6&style=flat" alt="holgerimbery" /> </p>
 
 ### 5 latest Blogs posts
