@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Copilot Control System - Governing and Administering Copilot and AI Agents](https://holgerimbery.blog/copilot-control-system)
 - [Autonomous Agents - The Future of Automation](https://holgerimbery.blog/autonomous-agents-the-future-of-automation)
 - [Agentic AI and Microsoft’s Autonomous Agents - An In-Depth Comparison](https://holgerimbery.blog/agentic-ai-an-overview)
 - [Measuring for Improvement - Capturing Telemetry in Microsoft Copilot Studio with Azure Application Insights](https://holgerimbery.blog/analytics-with-azure-insights)
 - [Empowering AI Agents with Deep Reasoning in Microsoft Copilot Studio](https://holgerimbery.blog/deep-reasoning-in-microsoft-copilot-studio)
-- [Creating Conversational AI with Microsoft Fabric Data Agents and Azure AI Agents](https://holgerimbery.blog/creating-conversational-ai-with-microsoft-fabric-data-agents-and-azure-aiagents)
 <!-- HASHNODE:END -->
