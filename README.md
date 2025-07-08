@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [read this blog in your language - lesen Sie diesen Blog in Ihrer Sprache](https://holgerimbery.blog/multilingual)
 - [Copilot Studio Extension for VS Code - Enhancing AI Agent Development with an additional code view](https://holgerimbery.blog/copilot-studio-extension)
 - [Add User Authentication to Topics](https://holgerimbery.blog/add-user-authentication-to-topics)
 - [Copilot Control System - Governing and Administering Copilot and AI Agents](https://holgerimbery.blog/copilot-control-system)
 - [Autonomous Agents - The Future of Automation](https://holgerimbery.blog/autonomous-agents-the-future-of-automation)
-- [Agentic AI and Microsoft’s Autonomous Agents - An In-Depth Comparison](https://holgerimbery.blog/agentic-ai-an-overview)
 <!-- HASHNODE:END -->
