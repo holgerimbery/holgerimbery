@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Copilot Studio Kit - you can&#39;t improve what you can&#39;t measure](https://holgerimbery.blog/copilot-studio-kit)
 - [Application Lifecycle Management und Environment Strategy in Microsoft Copilot Studio](https://holgerimbery.blog/application-lifecycle-managment)
 - [Copilot Studio Extension for VS Code - Enhancing AI Agent Development with an additional code view](https://holgerimbery.blog/copilot-studio-extension)
 - [Add User Authentication to Topics](https://holgerimbery.blog/add-user-authentication-to-topics)
 - [Copilot Control System - Governing and Administering Copilot and AI Agents](https://holgerimbery.blog/copilot-control-system)
-- [Autonomous Agents - The Future of Automation](https://holgerimbery.blog/autonomous-agents-the-future-of-automation)
 <!-- HASHNODE:END -->
