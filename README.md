@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Copilot Studio licensing](https://holgerimbery.blog/copilot-studio-licensing259)
 - [Comparing Copilot Studio Agent Builder and Microsoft Copilot Studio](https://holgerimbery.blog/copilot-studio-agentbuilder-vs-copilot-studio)
 - [Webchat Playground Tool in Copilot Studio Kit - easy customisation of Copilot webchat UI](https://holgerimbery.blog/copilot-studio-kit-webchat-playground)
 - [Copilot Studio - voice in customer service - an experimental approach with ACSforMCS](https://holgerimbery.blog/experimental-voice-channel)
 - [Copilot Studio Kit - you can&#39;t improve what you can&#39;t measure](https://holgerimbery.blog/copilot-studio-kit)
-- [Application Lifecycle Management und Environment Strategy in Microsoft Copilot Studio](https://holgerimbery.blog/application-lifecycle-managment)
 <!-- HASHNODE:END -->
