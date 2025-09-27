@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Triggering the Backend - Integrating Azure AI Foundry with Microsoft Copilot Studio](https://holgerimbery.blog/triggering-the-backend)
 - [Choosing Between Microsoft Copilot Studio and Azure AI Foundry - A Comprehensive Guide](https://holgerimbery.blog/which-tool-to-choose)
 - [Copilot Studio licensing](https://holgerimbery.blog/copilot-studio-licensing259)
 - [Comparing Copilot Studio Agent Builder and Microsoft Copilot Studio](https://holgerimbery.blog/copilot-studio-agentbuilder-vs-copilot-studio)
 - [Webchat Playground Tool in Copilot Studio Kit - easy customisation of Copilot webchat UI](https://holgerimbery.blog/copilot-studio-kit-webchat-playground)
-- [Copilot Studio - voice in customer service - an experimental approach with ACSforMCS](https://holgerimbery.blog/experimental-voice-channel)
 <!-- HASHNODE:END -->
