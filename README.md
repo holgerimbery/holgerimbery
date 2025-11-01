@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Microsoft First‑Party Autonomous Agents for Dynamics 365 Customer Service and Sales](https://holgerimbery.blog/autonomous-agents-dynamics365)
 - [Practical Governance for Microsoft Copilot Studio and the Power Platform](https://holgerimbery.blog/copilot-studio-governance)
 - [Integrating SAP with Copilot Studio Agents - Why it Matters, What to Build, and How to Deliver](https://holgerimbery.blog/copilot-studio-sap)
 - [Microsoft Agent Framework - The open‑source engine for agentic AI — why it matters for businesses, low‑code makers, and pro‑code developers](https://holgerimbery.blog/microsoft-agent-framework)
 - [Power Automate and Copilot Studio Autonomous Agents - Choosing the Right Tool for Your Automation Needs](https://holgerimbery.blog/powerautomate-autonomousagents)
-- [Triggering the Backend - Integrating Azure AI Foundry with Microsoft Copilot Studio](https://holgerimbery.blog/triggering-the-backend)
 <!-- HASHNODE:END -->
