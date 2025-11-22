@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Bring Your Own Model &lpar;BYOM&rpar; to Microsoft Copilot Studio — A Practical, No‑Code Guide](https://holgerimbery.blog/bring-your-own-model-copilotstudio)
 - [Integrating Outlook Model Context Protocol &lpar;MCP&rpar; Server with Copilot Studio Agents](https://holgerimbery.blog/outlook-model-context-protocol)
 - [Microsoft First‑Party Autonomous Agents for Dynamics 365 Sales and Operations](https://holgerimbery.blog/additional-agents-dynamics365)
 - [Microsoft First‑Party Autonomous Agents for Dynamics 365 Customer Service and Sales](https://holgerimbery.blog/autonomous-agents-dynamics365)
 - [Practical Governance for Microsoft Copilot Studio and the Power Platform](https://holgerimbery.blog/copilot-studio-governance)
-- [Integrating SAP with Copilot Studio Agents - Why it Matters, What to Build, and How to Deliver](https://holgerimbery.blog/copilot-studio-sap)
 <!-- HASHNODE:END -->
