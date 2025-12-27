@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Building Intelligent, Agentic Applications in VS Code - A Technical Deep Dive into the AI Toolkit Extension Pack](https://holgerimbery.blog/visualstudiocode-ai-toolkit)
 - [Designing a Multi-Agent System in Copilot Studio for Dynamics 365 Customer Service &amp; Sales](https://holgerimbery.blog/designing-a-multi-agent-system)
 - [Copilot Studio Multi‑Agent Orchestration - Embedded Agents, Connected Agents, and MCP—Architecture, Advantages, and Implementation Patterns](https://holgerimbery.blog/multi-agent-orchestration)
 - [Prioritize Hot Leads with AI - Connect to Dynamics 365 Sales Using Model Context Protocol](https://holgerimbery.blog/prioritize-hot-leads-mcp-d365-sales)
 - [Bring Your Own Model &lpar;BYOM&rpar; to Microsoft Copilot Studio — A Practical, No‑Code Guide](https://holgerimbery.blog/bring-your-own-model-copilotstudio)
-- [Integrating Outlook Model Context Protocol &lpar;MCP&rpar; Server with Copilot Studio Agents](https://holgerimbery.blog/outlook-model-context-protocol)
 <!-- HASHNODE:END -->
