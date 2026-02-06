@@ -7,7 +7,7 @@
 
 ⚐ Based in Berlin, Germany
 
-ϟ Currently working on voice bots to improve and empower customer service
+ϟ Currently working on autonomous multiagent systems to improve and empower customer service
 
  
 
