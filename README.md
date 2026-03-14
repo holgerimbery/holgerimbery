@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Microsoft 365 E7: Why Microsoft&#39;s New License Is a Logical Step for Agent‑Driven Enterprises](https://holgerimbery.blog/microsoft-365-e7-why-microsoft-s-new-license-is-a-logical-step-for-agent-driven-enterprises)
 - [Introducing MATE: A Modular Testing Environment for AI Agents](https://holgerimbery.blog/introducing-mate-a-modular-testing-environment-for-ai-agents)
 - [Testing Copilot Studio Agents: Copilot Studio Kit vs. Agent Evaluation &lpar;Preview&rpar;](https://holgerimbery.blog/testing-copilot-studio-agents-copilot-studio-kit-vs-agent-evaluation-preview)
 - [Microsoft Frontier Agents: A Deep Technical Overview](https://holgerimbery.blog/microsoft-frontier-agents-a-deep-technical-overview)
 - [Ship Copilot Studio Agents with Confidence: Master Automated Testing with the Copilot Studio Kit](https://holgerimbery.blog/ship-copilot-studio-agents-with-confidence-master-automated-testing-with-the-copilot-studio-kit)
-- [Migrating from Agent Builder &lpar;Copilot Studio Lite&rpar; to Copilot Studio](https://holgerimbery.blog/migrating-from-agent-builder-to-copilot-studio)
 <!-- HASHNODE:END -->
