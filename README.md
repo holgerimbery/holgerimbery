@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Azure Local, Foundry Local, and Microsoft 365 Local: A Comprehensive Guide for IT Architects and Decision-Makers](https://holgerimbery.blog/azure-local-foundry-local-and-microsoft-365-local-a-comprehensive-guide-for-it-architects-and-decision-makers)
 - [Practical Guideline: How to Move Agents Beyond POCs and Deliver Real Enterprise Value](https://holgerimbery.blog/practical-guideline-how-to-move-agents-beyond-pocs-and-deliver-real-enterprise-value)
 - [Microsoft 365 E7: Why Microsoft&#39;s New License Is a Logical Step for Agent‑Driven Enterprises](https://holgerimbery.blog/microsoft-365-e7-why-microsoft-s-new-license-is-a-logical-step-for-agent-driven-enterprises)
 - [Introducing MATE: A Modular Testing Environment for AI Agents](https://holgerimbery.blog/introducing-mate-a-modular-testing-environment-for-ai-agents)
 - [Testing Copilot Studio Agents: Copilot Studio Kit vs. Agent Evaluation &lpar;Preview&rpar;](https://holgerimbery.blog/testing-copilot-studio-agents-copilot-studio-kit-vs-agent-evaluation-preview)
-- [Microsoft Frontier Agents: A Deep Technical Overview](https://holgerimbery.blog/microsoft-frontier-agents-a-deep-technical-overview)
 <!-- HASHNODE:END -->
