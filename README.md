@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Connecting Azure Application Insights to Microsoft Copilot Studio: Unlocking Deep Analytics for Agentic Systems](https://holgerimbery.blog/connecting-azure-application-insights-to-microsoft-copilot-studio-unlocking-deep-analytics-for-agentic-systems)
 - [Building On‑Prem AI Agents with Azure Local, Foundry Local, and Microsoft Agent Framework](https://holgerimbery.blog/building-on-prem-ai-agents-with-azure-local-foundry-local-and-microsoft-agent-framework)
 - [Testing Copilot Agents: When to Use Agent Evaluation vs. the Copilot Studio Kit](https://holgerimbery.blog/testing-copilot-agents-when-to-use-agent-evaluation-vs-the-copilot-studio-kit)
 - [Azure Local, Foundry Local, and Microsoft 365 Local: A Comprehensive Guide for IT Architects and Decision-Makers](https://holgerimbery.blog/azure-local-foundry-local-and-microsoft-365-local-a-comprehensive-guide-for-it-architects-and-decision-makers)
 - [Practical Guideline: How to Move Agents Beyond POCs and Deliver Real Enterprise Value](https://holgerimbery.blog/practical-guideline-how-to-move-agents-beyond-pocs-and-deliver-real-enterprise-value)
-- [Microsoft 365 E7: Why Microsoft&#39;s New License Is a Logical Step for Agent‑Driven Enterprises](https://holgerimbery.blog/microsoft-365-e7-why-microsoft-s-new-license-is-a-logical-step-for-agent-driven-enterprises)
 <!-- HASHNODE:END -->
