@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Anthropic in Cowork: Subprocessor Status and EU Data Residency](https://holgerimbery.blog/cowork-day3)
 - [Enabling Cowork: The Frontier Path](https://holgerimbery.blog/cowork-day2)
 - [Microsoft Copilot Cowork: A Practical Introduction](https://holgerimbery.blog/cowork-day1)
 - [Connecting Azure Application Insights to Microsoft Copilot Studio: Unlocking Deep Analytics for Agentic Systems](https://holgerimbery.blog/connecting-azure-application-insights-to-microsoft-copilot-studio-unlocking-deep-analytics-for-agentic-systems)
 - [Building On‑Prem AI Agents with Azure Local, Foundry Local, and Microsoft Agent Framework](https://holgerimbery.blog/building-on-prem-ai-agents-with-azure-local-foundry-local-and-microsoft-agent-framework)
-- [Testing Copilot Agents: When to Use Agent Evaluation vs. the Copilot Studio Kit](https://holgerimbery.blog/testing-copilot-agents-when-to-use-agent-evaluation-vs-the-copilot-studio-kit)
 <!-- HASHNODE:END -->
