@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Custom Skills in Cowork: Hands-On with SKILL.md](https://holgerimbery.blog/cowork-day5)
 - [The 13 Built-In Skills of Cowork](https://holgerimbery.blog/cowork-day4)
 - [Anthropic in Cowork: Subprocessor Status and EU Data Residency](https://holgerimbery.blog/cowork-day3)
 - [Enabling Cowork: The Frontier Path](https://holgerimbery.blog/cowork-day2)
 - [Microsoft Copilot Cowork: A Practical Introduction](https://holgerimbery.blog/cowork-day1)
-- [Connecting Azure Application Insights to Microsoft Copilot Studio: Unlocking Deep Analytics for Agentic Systems](https://holgerimbery.blog/connecting-azure-application-insights-to-microsoft-copilot-studio-unlocking-deep-analytics-for-agentic-systems)
 <!-- HASHNODE:END -->
