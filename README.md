@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Meetings and Daily Briefing Skills](https://holgerimbery.blog/cowork-day8)
 - [Microsoft IQ: The New Intelligence Layer for Enterprise AI Agents](https://holgerimbery.blog/iqs)
 - [Calendar Management and Scheduling Skills](https://holgerimbery.blog/cowork-day7)
 - [The Email Skill in Cowork](https://holgerimbery.blog/cowork-day6)
 - [Custom Skills in Cowork: Hands-On with SKILL.md](https://holgerimbery.blog/cowork-day5)
-- [The 13 Built-In Skills of Cowork](https://holgerimbery.blog/cowork-day4)
 <!-- HASHNODE:END -->
