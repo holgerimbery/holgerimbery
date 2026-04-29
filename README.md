@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Approvals, Pause/Resume, and the Tasks View](https://holgerimbery.blog/cowork-day11)
 - [Enterprise Search and Deep Research Skills](https://holgerimbery.blog/cowork-day10)
 - [Document Skills: Word, Excel, PowerPoint, PDF](https://holgerimbery.blog/cowork-day9)
 - [Meetings and Daily Briefing Skills](https://holgerimbery.blog/cowork-day8)
 - [Microsoft IQ: The New Intelligence Layer for Enterprise AI Agents](https://holgerimbery.blog/iqs)
-- [Calendar Management and Scheduling Skills](https://holgerimbery.blog/cowork-day7)
 <!-- HASHNODE:END -->
