@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Cowork&#39;s Limits and Known Constraints](https://holgerimbery.blog/cowork-day13)
 - [Work Context: How to Attach Files and Ground Cowork](https://holgerimbery.blog/cowork-day12)
 - [Approvals, Pause/Resume, and the Tasks View](https://holgerimbery.blog/cowork-day11)
 - [Enterprise Search and Deep Research Skills](https://holgerimbery.blog/cowork-day10)
 - [Document Skills: Word, Excel, PowerPoint, PDF](https://holgerimbery.blog/cowork-day9)
-- [Meetings and Daily Briefing Skills](https://holgerimbery.blog/cowork-day8)
 <!-- HASHNODE:END -->
