@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [What Is Next: E7, Agent 365, and the Researcher](https://holgerimbery.blog/cowork-day14)
+- [Copilot Studio Billing – A Short Answer to a Frequent Question](https://holgerimbery.blog/billing)
 - [Cowork&#39;s Limits and Known Constraints](https://holgerimbery.blog/cowork-day13)
 - [Work Context: How to Attach Files and Ground Cowork](https://holgerimbery.blog/cowork-day12)
 - [Approvals, Pause/Resume, and the Tasks View](https://holgerimbery.blog/cowork-day11)
-- [Enterprise Search and Deep Research Skills](https://holgerimbery.blog/cowork-day10)
-- [Document Skills: Word, Excel, PowerPoint, PDF](https://holgerimbery.blog/cowork-day9)
 <!-- HASHNODE:END -->
