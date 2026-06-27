@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Teams Phone Agent and Custom Voice Agents in Copilot Studio: A Practitioner&#39;s Guide](https://holgerimbery.blog/teams-phone-agent-copilot-studio)
 - [Understanding Microsoft Power Platform Licensing: A Practitioner&#39;s Reference](https://holgerimbery.blog/powerplatform-licensing)
 - [Power Platform Governance: A Practitioner&#39;s Reference &lpar;Part 2&rpar;](https://holgerimbery.blog/powerplatform-governance-part-2)
 - [Power Platform Governance: A Practitioner&#39;s Reference &lpar;Part 1&rpar;](https://holgerimbery.blog/powerplatform-governance-part-1)
 - [Microsoft Agent 365: The Control Plane for AI Agents Is Now Generally Available](https://holgerimbery.blog/agent-365-ga)
-- [What Is Next: E7, Agent 365, and the Researcher](https://holgerimbery.blog/cowork-day14)
 <!-- HASHNODE:END -->
