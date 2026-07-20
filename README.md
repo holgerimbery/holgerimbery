@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
-- [Multi-Agent Orchestration with Copilot Studio — Part 3: The Build 2026 Rebuild](https://holgerimbery.blog/holgerimbery.blog/copilot-studio-orchestration-part3)
-- [Multi-Agent Orchestration with Copilot Studio — Part 2: In Practice](https://holgerimbery.blog/holgerimbery.blog/copilot-studio-orchestration-part2)
-- [Multi-Agent Orchestration with Copilot Studio — Part 1: Foundations](https://holgerimbery.blog/holgerimbery.blog/copilot-studio-orchestration-part1)
-- [Teams Phone Agent and Custom Voice Agents in Copilot Studio: A Practitioner&#39;s Guide](https://holgerimbery.blog/holgerimbery.blog/teams-phone-agent-copilot-studio)
-- [Understanding Microsoft Power Platform Licensing: A Practitioner&#39;s Reference](https://holgerimbery.blog/holgerimbery.blog/powerplatform-licensing)
+- [Multi-Agent Orchestration with Copilot Studio — Part 3: The Build 2026 Rebuild](https://holgerimbery.blog/copilot-studio-orchestration-part3)
+- [Multi-Agent Orchestration with Copilot Studio — Part 2: In Practice](https://holgerimbery.blog/copilot-studio-orchestration-part2)
+- [Multi-Agent Orchestration with Copilot Studio — Part 1: Foundations](https://holgerimbery.blog/copilot-studio-orchestration-part1)
+- [Teams Phone Agent and Custom Voice Agents in Copilot Studio: A Practitioner&#39;s Guide](https://holgerimbery.blog/teams-phone-agent-copilot-studio)
+- [Understanding Microsoft Power Platform Licensing: A Practitioner&#39;s Reference](https://holgerimbery.blog/powerplatform-licensing)
 <!-- HASHNODE:END -->
