@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Cost optimization for agentic systems](https://holgerimbery.blog/cost-optimization-for-agentic-systems)
 - [Understanding Microsoft Power Platform Licensing: A Practitioner&#39;s Reference &lpar;Rev. 3&rpar;](https://holgerimbery.blog/powerplatform-licensing)
 - [Creating Skills for Copilot Studio Agents: How to use the SKILL.md and Behavior-as-Code](https://holgerimbery.blog/creating-skills-copilot-studio-agents)
 - [Copilot Studio Reimagined: The New Agent Experience, the Agentic Orchestrator, and the SKILL.md Revolution](https://holgerimbery.blog/copilot-studio-reimagined)
 - [Multi-Agent Orchestration with Copilot Studio — Part 3: The Build 2026 Rebuild](https://holgerimbery.blog/copilot-studio-orchestration-part3)
-- [Multi-Agent Orchestration with Copilot Studio — Part 2: In Practice](https://holgerimbery.blog/copilot-studio-orchestration-part2)
 <!-- HASHNODE:END -->
