@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Workflows in the Copilot Studio: What the Agent Node Actually Changes](https://holgerimbery.blog/copilot-studio-workflows-new-experience)
 - [Microsoft Copilot Cowork in Practice](https://holgerimbery.blog/cowork-in-practice)
 - [Cost optimization for agentic systems](https://holgerimbery.blog/cost-optimization-for-agentic-systems)
 - [Understanding Microsoft Power Platform Licensing: A Practitioner&#39;s Reference &lpar;Rev. 3&rpar;](https://holgerimbery.blog/powerplatform-licensing)
 - [Creating Skills for Copilot Studio Agents: How to use the SKILL.md and Behavior-as-Code](https://holgerimbery.blog/creating-skills-copilot-studio-agents)
-- [Copilot Studio Reimagined: The New Agent Experience, the Agentic Orchestrator, and the SKILL.md Revolution](https://holgerimbery.blog/copilot-studio-reimagined)
 <!-- HASHNODE:END -->
