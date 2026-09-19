@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Prompt Libraries Are Reusable Text - Skills Are Reusable Expertise](https://holgerimbery.blog/declarative-agent-skills-agent-builder)
 - [Long-Running Business Processes in Copilot Studio: State Tables, Agent Flows and Multi-Agent Orchestration](https://holgerimbery.blog/statetable-multi-agent-orchestration)
 - [Multi-Agent Orchestration in Copilot Studio - Pick the Harness First](https://holgerimbery.blog/multi-agent-orchestration-copilot-studio-harnesses)
 - [Workflows in the Copilot Studio: What the Agent Node Actually Changes](https://holgerimbery.blog/copilot-studio-workflows-new-experience)
 - [Microsoft Copilot Cowork in Practice](https://holgerimbery.blog/cowork-in-practice)
-- [Cost optimization for agentic systems](https://holgerimbery.blog/cost-optimization-for-agentic-systems)
 <!-- HASHNODE:END -->
