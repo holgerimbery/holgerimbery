@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Agent FinOps in the Microsoft Ecosystem - Rev1](https://holgerimbery.blog/agent-finops-microsoft-ecosystem)
 - [Understanding Microsoft Copilot Licensing - Rev1](https://holgerimbery.blog/copilot-pricing-licenses-and-credits)
 - [Understanding Microsoft Power Platform Licensing Rev.6](https://holgerimbery.blog/powerplatform-licensing)
 - [Prompt Libraries Are Reusable Text - Skills Are Reusable Expertise](https://holgerimbery.blog/declarative-agent-skills-agent-builder)
 - [Long-Running Business Processes in Copilot Studio: State Tables, Agent Flows and Multi-Agent Orchestration](https://holgerimbery.blog/statetable-multi-agent-orchestration)
-- [Multi-Agent Orchestration in Copilot Studio - Pick the Harness First](https://holgerimbery.blog/multi-agent-orchestration-copilot-studio-harnesses)
 <!-- HASHNODE:END -->
