@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [A Third Harness for Customer Conversations: What Changes for Contact Center Agents in Copilot Studio](https://holgerimbery.blog/customer-conversation-harness-copilot-studio)
 - [Copilot Managed Runtime: The Runtime Becomes the Governance Boundary](https://holgerimbery.blog/copilot-managed-runtime-governance-boundary)
 - [Agents With Their Own Accounts: What Changes When Copilot Studio Agents Stop Borrowing Your Identity](https://holgerimbery.blog/copilot-studio-agent-accounts)
 - [Agent FinOps in the Microsoft Ecosystem - Rev1](https://holgerimbery.blog/agent-finops-microsoft-ecosystem)
 - [Understanding Microsoft Copilot Licensing - Rev1](https://holgerimbery.blog/copilot-pricing-licenses-and-credits)
-- [Understanding Microsoft Power Platform Licensing Rev.6](https://holgerimbery.blog/powerplatform-licensing)
 <!-- HASHNODE:END -->
