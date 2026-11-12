@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Contact Center Intelligence one month in: what to prepare before the GA dates](https://holgerimbery.blog/contact-center-intelligence-month-prepare-ga-dates)
 - [Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not](https://holgerimbery.blog/claude-eu-data-boundary-copilot)
 - [A Third Harness for Customer Conversations: What Changes for Contact Center Agents in Copilot Studio](https://holgerimbery.blog/customer-conversation-harness-copilot-studio)
 - [Agent FinOps in the Microsoft Ecosystem - Rev2](https://holgerimbery.blog/agent-finops-microsoft-ecosystem)
 - [Understanding Microsoft Copilot Licensing - Rev2](https://holgerimbery.blog/copilot-pricing-licenses-and-credits)
-- [Understanding Microsoft Power Platform Licensing Rev.7](https://holgerimbery.blog/powerplatform-licensing)
 <!-- HASHNODE:END -->
