@@ -15,7 +15,7 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
-- [Ignite 2026 for Customer Service and Process Architects](https://holgerimbery.blog/ignite-2026-customer-service-process-architecture)
+- [Ignite 2026 in Review for Customer Service and Process Architects](https://holgerimbery.blog/ignite-2026-customer-service-process-architecture)
 - [Local AI Development with the Surface Laptop Ultra](https://holgerimbery.blog/surface-laptop-ultra-local-ai-developer-setup)
 - [Contact Center Intelligence one month in: what to prepare before the GA dates](https://holgerimbery.blog/contact-center-intelligence-month-prepare-ga-dates)
 - [Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not](https://holgerimbery.blog/claude-eu-data-boundary-copilot)
