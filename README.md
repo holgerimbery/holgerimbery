@@ -15,9 +15,9 @@
 
 ### 5 latest Blogs posts
 <!-- HASHNODE:START -->
+- [Windows ML and Foundry Local on NVIDIA RTX Spark Laptops](https://holgerimbery.blog/windows-ml-nvidia-rtx-spark)
 - [Finally a Meter: Copilot Credit Cost Management in the Microsoft 365 Admin Center](https://holgerimbery.blog/copilot-credit-cost-management-admin-center)
 - [Ignite 2026 in Review for Customer Service and Process Architects](https://holgerimbery.blog/ignite-2026-customer-service-process-architecture)
 - [Local AI Development with the Surface Laptop Ultra](https://holgerimbery.blog/surface-laptop-ultra-local-ai-developer-setup)
 - [Contact Center Intelligence one month in: what to prepare before the GA dates](https://holgerimbery.blog/contact-center-intelligence-month-prepare-ga-dates)
-- [Claude Inside the EU Data Boundary: What Changes for European Copilot Tenants and What Does Not](https://holgerimbery.blog/claude-eu-data-boundary-copilot)
 <!-- HASHNODE:END -->
